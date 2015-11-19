@@ -15,15 +15,11 @@ app.use(body.json());
 app.use(multer());
 
 keystone.init({
-  'name': 'Website Name',
-  'brand': 'Website Brand',
-  'session': false,
-  'updates': 'updates',
-  'auth': true,
-  'user model': 'User',
-  'auto update': true,
+  'name': 'KeystoneExpress', 'brand': 'KeystoneExpress',
+  'session': false, 'updates': 'updates',
+  'auth': true, 'user model': 'No',
   'cloudinary config': 'cloudinary://api_key:api_secret@cloud_name',
-  'cookie secret': cookieSecret
+  'auto update': true, 'cookie secret': cookieSecret
 });
 
 // Let keystone know where your models are defined. Here we have it at the `/models`
@@ -36,5 +32,6 @@ app.use(serve('./public'));
 app.get('/', function(req, res, next) {
   res.send('hello world');
 });
+
 keystone.app = app;
 keystone.start();
