@@ -1,7 +1,7 @@
 # Keystone-Express
 :rocket::sparkles: Showing how to keystone works with express :sparkles:
 
-https://github.com/keystonejs/keystone
+:key: https://github.com/keystonejs/keystone :key:
 
 
 
