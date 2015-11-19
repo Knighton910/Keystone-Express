@@ -8,8 +8,8 @@
  */
 
 exports.create = {
-	<%= userModel %>: [
-		{ 'name.first': 'Admin', 'name.last': 'User', email: '<%= adminLogin %>', password: '<%= adminPassword %>', isAdmin: true }
+	No: [
+		{ 'name.first': 'Admin', 'name.last': 'User', email: 'user@keystonejs.com', password: 'admin', isAdmin: true }
 	]
 };
 
