@@ -5,16 +5,19 @@
 
 
 
-This is an Express application showing how Keystonejs & express work together. 
-Built upon this premise. 
+This is an Express application showing how Keystonejs & express work together.
 
-How to Add Keystone to an Already Existing Express App. 
+- localhost:3000 === hello world
+- localhost:3000/keystone ===  keystone admin panel
 
-https://github.com/keystonejs/keystone/wiki/How-to-Add-Keystone-to-an-Already-Existing-Express-App
+
 
 :warning::construction:
-This is currently running at a very basic capacity.
-Right now, I'm trying to add the actual keystone admin ui.
-Just now i have it showing a rudementary, hello world, just to show that it is working. 
-I should have it running at it's zenieth level in no time, lean & mean. 
-:construction::warning:
+Still in progress  :construction::warning:
+
+
+>Additional Resource Bellow
+
+
+How to Add Keystone to an Already Existing Express App.
+:arrow_right:https://github.com/keystonejs/keystone/wiki/How-to-Add-Keystone-to-an-Already-Existing-Express-App
