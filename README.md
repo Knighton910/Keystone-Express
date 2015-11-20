@@ -19,7 +19,7 @@ This is an Express application showing how Keystonejs & express work together.
 Still in progress  :construction::warning:
 
 
->Additional Resource Bellow
+>Additional Resource Below
 
 
 How to Add Keystone to an Already Existing Express App.
