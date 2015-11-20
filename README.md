@@ -1,3 +1,6 @@
+![keystone-js](public/images/keystoneE.png)
+
+
 # Keystone-Express
 :rocket::sparkles: Showing how to keystone works with express :sparkles:
 
