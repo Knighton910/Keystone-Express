@@ -18,7 +18,7 @@ This is an Express application showing how Keystonejs & express work together.
 :warning::construction:
 Still in progress  :construction::warning:
 
-Talked with lead keystone.js developer an we gonna try to make this part of the official :key:Keystone demo project:key:
+Talked with creator & lead keystone.js developer an we gonna try to make this part of the official :key:Keystone demo project:key:
 
 
 >Additional Resource Below
